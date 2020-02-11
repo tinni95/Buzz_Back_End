@@ -1,0 +1,22 @@
+{
+  "name": "buzz_back_end",
+  "version": "1.0.0",
+  "description": "The Back End for Buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tinni95/Buzz_Back_End.git"
+  },
+  "keywords": [
+    "buzz"
+  ],
+  "author": "Giovanni D'Amico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinni95/Buzz_Back_End/issues"
+  },
+  "homepage": "https://github.com/tinni95/Buzz_Back_End#readme"
+}
